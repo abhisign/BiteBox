@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22013919712",
+    "project_id": "bitebox-f23fc",
+    "storage_bucket": "bitebox-f23fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22013919712:android:9e0656dff401427f2beb85",
+        "android_client_info": {
+          "package_name": "com.dialiax.bitebox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ9Wfkg74A522wfPwmxu693t8uDYXknpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22013919712:android:082ac0a164e585f22beb85",
+        "android_client_info": {
+          "package_name": "com.dialiax.sweeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ9Wfkg74A522wfPwmxu693t8uDYXknpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
